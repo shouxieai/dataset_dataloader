@@ -3,7 +3,7 @@
 
 全程手写，帮助大家彻底理解pytorch的Dataloader、Dataset
 
-B站视频:
+B站视频: https://www.bilibili.com/video/BV1j3411t7VM?p=1
 
 添加手写AI微信，免费获取更多NLP精品课程
 
